@@ -1,6 +1,6 @@
 # Design Patterns with TypeScript
 
-An approachable list of common OO software design patterns. Written in TypeScript.
+An approachable list of common object oriented patterns written in TypeScript.
 
 ## Authors
 
