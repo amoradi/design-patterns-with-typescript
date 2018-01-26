@@ -4,7 +4,7 @@ An approachable list of common object oriented patterns written in TypeScript.
 
 ## Authors
 
-* **Xavier Decuyper** - *Initial work* - [Savjee](https://github.com/Savjee)
+* **Xavier Decuyper** - *Initial work* - [Savjee](https://github.com/Savjee), [video resources](https://www.youtube.com/watch?v=wAX8VA7FH8M)
 * **Aaron Moradi** - [amoradi](https://github.com/amoradi)
 
 ## License
